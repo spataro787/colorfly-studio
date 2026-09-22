@@ -5,7 +5,7 @@ Generador de paletas de colores interactivo, moderno y visual.
 
 🚀 Demo
 
-👉 https://spataro787.github.io/Proyecto-M1--Agustin-Spataro-/
+👉 https://spataro787.github.io/colorfly-studio/
 
 # Funcionalidades
 - 🎲 Generación aleatoria de paletas
@@ -22,20 +22,20 @@ Generador de paletas de colores interactivo, moderno y visual.
 - JavaScript
 - LocalStorage 
  
-## ⚙️ Decisiones Tecnicas
+## ⚙️Decisiones técnicas
 🧠 Uso de JavaScript Vanilla
 - Mantener el proyecto liviano
 - Enfocarse en lógica pura de JavaScript
-- Facilitar el aprendizaje y comprension del código
+- Facilitar el aprendizaje y comprensión del código
 
-# Intricciones de uso
+# Intrucciones de uso
 - Seleccioná la cantidad de colores (6, 8 o 9).
 - Hacé click en el botón "Generar paleta".
 - Visualizá la paleta generada en pantalla.
 - Elegí el formato de color (HEX, HSL o RGBA).
 - Hacé click sobre cualquier color para copiar su código.
 
-# Imaguen 
+# Imagen 
 - 🖼️ Vista previa
      - Proyecto M1
      - Imaguen 
